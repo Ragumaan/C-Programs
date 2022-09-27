@@ -12,7 +12,7 @@ int main()
     {
     	for(j = 1; j <= i; j++)
 		{
-            cout << rows<< " ";  
+            cout << i<< " ";  
         }
         cout << "\n";
     }	
@@ -21,7 +21,7 @@ int main()
     {
     	for(j = 1; j <= i; j++)
 		{
-            cout << rows << " "; 
+            cout << i << " "; 
         }
         cout << "\n";
     }	
